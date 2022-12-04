@@ -1,0 +1,35 @@
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0;
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    line-height: 1.2;
+    border-radius: 5px;
+    scroll-behavior: smooth;
+    text-decoration: none;
+}
+
+.background{
+    background: radial-gradient(38.78% 164.13% at 25.31% 44.36%, #504c4c 0%, #141414 100%);
+    box-shadow: 0px 4px 4px rgb(247, 247, 247);
+    
+}
+
+.title {
+    color: rgb(255, 255, 255);
+}
+
+header{
+    width: 100%;
+    height: 3.5rem;
+}
+nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 10px;
+}
